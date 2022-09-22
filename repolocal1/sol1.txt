@@ -1,1 +1,2 @@
-hola soy sol
+hola soy sol, como estas soy german estamos aprendiendo git a pleno
+
