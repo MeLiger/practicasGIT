@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hola soy sol :D :D 
+=======
+hola soy sol, como estas soy german estamos aprendiendo git a pleno
+
+>>>>>>> 47c90064e1e3c462461bc2f3670bd2b93cc1b230
