@@ -1,2 +1,3 @@
-hola soy sol diaz, otra vez estoy causando conflictos!! 
-solucionalos..
+<<<<<<< HEAD
+hola quiero generar un conflicto
+>>>>>>> e228ee48009ed2d20e06626258679a6937d07e12
